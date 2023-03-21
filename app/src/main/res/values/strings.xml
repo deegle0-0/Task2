@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string-array name="selection">
+        <item>Weight</item>
+        <item>Distance</item>
+        <item>Temperature</item>
+    </string-array>
+    <string-array name="weight">
+        <item>Kilogram</item>
+        <item>Pounds</item>
+        <item>Ounce</item>
+        <item>Ton</item>
+    </string-array>
+    <string-array name="distance">
+        <item>CentiMeter</item>
+        <item>KiloMeter</item>
+        <item>Miles</item>
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+    </string-array>
+    <string-array name="temperature">
+        <item>Centigrade</item>
+        <item>Kelvin</item>
+        <item>Fahrenheit</item>
+    </string-array>
+</resources>
